@@ -6,7 +6,7 @@ This repository contains a formal white paper that documents a controlled multi-
 
 ## 🔗 Interactive Forensic Document
 
-**[ETHRAEON Build Loop: Forensic Demonstration](https://codepen.io/Jason-Fells/pen/xbwZpNP/236670b8e72da6554efbe22b5da4887e)**
+**[ETHRAEON Build Loop: Forensic Demonstration](https://codepen.io/Jason-Fells/live/xbwZpNP/236670b8e72da6554efbe22b5da4887e)**
 
 ---
 
