@@ -335,7 +335,7 @@ This forensic demonstration represents a significant contribution to:
 
 ## 🔗 Quick Links
 
-- **Live Forensic Document:** [Interactive Demonstration](https://codepen.io/Jason-Fells/pen/xbwZpNP/236670b8e72da6554efbe22b5da4887e)
+- **Live Forensic Document:** [Interactive Demonstration](https://codepen.io/Jason-Fells/live/xbwZpNP/236670b8e72da6554efbe22b5da4887e)
 - **Academic Profile:** [ORCID Researcher Profile](https://orcid.org/0009-0008-8254-8411)
 - **Research Entity:** [Ethraeon Systems](https://ethraeon.systems)
 - **Research Portfolio:** [GitHub Research Repository](https://github.com/jason-fells-research)
