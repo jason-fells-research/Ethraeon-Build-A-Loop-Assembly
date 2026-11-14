@@ -43,7 +43,7 @@ The paper states its performance targets, among them intake under 50 ms.
 Fells, J. (2025). The ETHRAEON Build Loop: A Forensic Demonstration of
 Recursive Agent-Guided System Assembly. Ethraeon Systems Advanced AI Research.
 ORCID: https://orcid.org/0009-0008-8254-8411
-Available at: https://github.com/jason-fells-research/ethraeon-build-loop-forensic
+Available at: https://github.com/jason-fells-research/Ethraeon-Build-A-Loop-Assembly
 ```
 
 ## Standards referenced
