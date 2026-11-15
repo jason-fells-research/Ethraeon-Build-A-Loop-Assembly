@@ -26,6 +26,8 @@ Thirteen core modules, an identity module and the `SOP-AUD-L1` review protocol, 
 | M13 | `m13-scoping-output-layer.md` | scoping, rendering and delivery |
 | `SOP-AUD-L1` | `sop-aud-l1-arbitration-protocol.md` | the review chain AFI, SOP-AIL, ABG |
 
+The module files are not in this repository; it holds this README and the licence.
+
 How the modules connect: M1, M2, M4 and M13 carry the basic flow. M3, M5 and M8 manage decisions. M11 binds identity to every module. M6 and M7 carry context and language.
 
 ## Findings
